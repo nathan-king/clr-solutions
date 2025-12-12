@@ -1,0 +1,5 @@
+/Users/nathan/dev/rust-solutions/hello/target/debug/deps/termtree-6b4dc727e869b1d6.d: /Users/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/termtree-0.5.1/src/lib.rs
+
+/Users/nathan/dev/rust-solutions/hello/target/debug/deps/libtermtree-6b4dc727e869b1d6.rmeta: /Users/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/termtree-0.5.1/src/lib.rs
+
+/Users/nathan/.cargo/registry/src/index.crates.io-1949cf8c6b5b557f/termtree-0.5.1/src/lib.rs:
