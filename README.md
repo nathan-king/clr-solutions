@@ -4,18 +4,7 @@ This repository contains my solutions and notes from working through _Command-Li
 
 ## Structure
 
-Each chapter has its own directory and standalone Cargo project:
-
-## Running
-
-To run a chapter project:
-
-cd ch01
-cargo run -- --help
-
-To run tests:
-
-cargo test
+Each chapter has its own directory and standalone Cargo project.
 
 ## Purpose
 
